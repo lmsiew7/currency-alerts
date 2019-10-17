@@ -2,12 +2,8 @@ package xyz.concurrency
 
 object Trend {
 
-}
-
-class Trend {
-
-  def hey(): String = {
-    "lo"
-  }
+  def getSummary() = ???
 
 }
+
+class Trend {}
